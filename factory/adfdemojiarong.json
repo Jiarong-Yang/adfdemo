@@ -1,0 +1,9 @@
+{
+	"name": "adfdemojiarong",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2fdddcac-1bde-4f4b-886a-da1c111eca33",
+		"tenantId": "3ed2919b-7732-4f00-893c-358242a5214d"
+	}
+}
